@@ -25,6 +25,8 @@ Scalability: Django can manage large amounts of data and traffic, making it suit
 
 In Django, we first create a project using django-admin startproject artgallery to set up the main structure and configurations for the whole application. This project acts as the central "container" for the settings, database configurations, and URLs.
 Then, we create an app within this project because Django organizes functionality into smaller, reusable modules called "apps." Each app can focus on a specific feature—like user management or the marketplace. This modular approach keeps the code organized and easy to maintain, allowing different apps to be reused in other projects if needed.
+![image](https://github.com/user-attachments/assets/8a67a2ef-3c80-4b21-a592-34a32c142a92)
+
 
 2. Defining the Data Structure with Models
 What are Models?
