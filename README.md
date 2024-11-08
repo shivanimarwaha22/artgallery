@@ -1,5 +1,7 @@
 # artgallery
 The Goal of the Project
+
+
 We are building a backend for an Art Gallery and Marketplace application. The backend is the core “brain” of the application, responsible for handling data, managing user interactions, and ensuring secure access to different parts of the system.
 In this project, users should be able to:
 View artworks by different artists.
